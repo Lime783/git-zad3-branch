@@ -1,0 +1,8 @@
+=== Aplikacja TODO ===
+
+Wersja: 1.0
+Autor: Lime783
+
+Funkcje:
+- dodawanie zadań
+- usuwanie zadań

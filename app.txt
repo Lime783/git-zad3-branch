@@ -1,7 +1,7 @@
 === Aplikacja TODO ===
 
 Wersja: 1.0
-Autor: <Twoje imię>
+Autor: Lime783
 
 Funkcje:
 - dodawanie zadań

@@ -6,4 +6,4 @@ Autor: Lime783
 Funkcje:
 - dodawanie zadań
 - usuwanie zadań
-- dodawanie kategorii
+- kategorie zadań
